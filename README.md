@@ -2,6 +2,7 @@
 A Game based on dice logic .., Created using HTML ,CSS and JAVASCRIPT . 
 
 How to play :
+
 1: At a time two players maximum can play the game .
 
 2: You have to roll the dice whatever times a player wish , Whatever number comes will be added to your current score . 
